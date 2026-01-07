@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.google.xr.cardboard": "file:C:/Users/M.SANTOSH/Downloads/Unity Important Files/cardboard-xr-plugin-master/cardboard-xr-plugin-master",
+    "com.google.xr.cardboard": "file:com.google.xr.cardboard",
     "com.unity.collab-proxy": "2.11.2",
     "com.unity.feature.development": "1.0.1",
     "com.unity.mobile.android-logcat": "1.4.6",
