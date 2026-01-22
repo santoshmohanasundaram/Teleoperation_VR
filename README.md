@@ -1,0 +1,1 @@
+Developing a VR-based teleoperation system for an electric two-wheeler that provides immersive first-person visualization and user command input, integrated with an autonomous Anti-Lock Braking System (ABS) to ensure braking safety. The system regulates brake pressure based on slip ratio to prevent wheel lock during sudden braking
