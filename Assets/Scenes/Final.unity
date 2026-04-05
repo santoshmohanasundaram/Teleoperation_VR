@@ -184,7 +184,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3188333197419404313, guid: cc77c01ece528d94db6413d04f7df686, type: 3}
       propertyPath: streamURL
-      value: http://unchronic-abe-nonmatrimonially.ngrok-free.dev/shot.jpg
+      value: https://unchronic-abe-nonmatrimonially.ngrok-free.dev/shot.jpg
       objectReference: {fileID: 0}
     - target: {fileID: 7696483464618900446, guid: cc77c01ece528d94db6413d04f7df686, type: 3}
       propertyPath: m_Name
