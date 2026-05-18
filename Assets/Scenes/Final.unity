@@ -132,15 +132,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2777746208121200465, guid: cc77c01ece528d94db6413d04f7df686, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.649822
+      value: 7.77
       objectReference: {fileID: 0}
     - target: {fileID: 2777746208121200465, guid: cc77c01ece528d94db6413d04f7df686, type: 3}
       propertyPath: m_LocalScale.y
-      value: 3.8613758
+      value: 7.24
       objectReference: {fileID: 0}
     - target: {fileID: 2777746208121200465, guid: cc77c01ece528d94db6413d04f7df686, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.6241709
+      value: 0.9908495
       objectReference: {fileID: 0}
     - target: {fileID: 2777746208121200465, guid: cc77c01ece528d94db6413d04f7df686, type: 3}
       propertyPath: m_LocalPosition.x
@@ -184,7 +184,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3188333197419404313, guid: cc77c01ece528d94db6413d04f7df686, type: 3}
       propertyPath: streamURL
-      value: https://unchronic-abe-nonmatrimonially.ngrok-free.dev/shot.jpg
+      value: https://zaida-subhedral-slobberingly.ngrok-free.dev/shot.jpg
       objectReference: {fileID: 0}
     - target: {fileID: 7696483464618900446, guid: cc77c01ece528d94db6413d04f7df686, type: 3}
       propertyPath: m_Name
